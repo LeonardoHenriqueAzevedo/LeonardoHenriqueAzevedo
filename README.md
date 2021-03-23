@@ -5,11 +5,31 @@ I started to code when I was 15 and since the first touch I knew that this was w
 
 <h2>👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; I started to code when I was 11. I wanted to build a private server of the game I used to play and since the first touch with the source code I knew that this was what I wanted to do in my life.
-- 💼 &nbsp; Currently I have a digital business which has the goal of help other developers and people that want to enter in the tech area. To check it out, click on the Instagram icon above, search for @dicasparadevs or go to our website.
-- ✍️ &nbsp; I love to write about tech and web development. I have a blog which I share my thoughts and try to help other developers and people that want to become one.
+- 👨🏻‍💻 &nbsp; I started to code when I was 15 and since the first touch I knew that this was what I wanted to do in my life.
+- ✍️ &nbsp; I love to learn about tech and software development.
 - 📫 How to reach me **leonardohenriquedeazevedo@gmail.com** or **https://www.linkedin.com/in/leonardo-henrique-/**
 <h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end and database:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 
 <!---
