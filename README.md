@@ -2,9 +2,11 @@
 <p align="center"> <br>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
 - 👨🏻‍💻 &nbsp; I started to code when I was 15 and since the first touch I knew that this was what I wanted to do in my life. 
 - ✍️ &nbsp; I love to learn about tech and software development. 
 - 📫 Contact-me on: **leonardohenriquedeazevedo@gmail.com** or [Linkedin](https://www.linkedin.com/in/leonardo-henrique-/).
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> 
