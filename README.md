@@ -2,7 +2,7 @@
 <p align="center">
 <h2>&nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; I started to code when I was 15 and since the first touch I knew that this was what I wanted to do in my life. 
+- 👨🏻‍💻 &nbsp; I started to code when I was 14 and since the first touch I knew that this was what I wanted to do in my life. 
 - ✍️ &nbsp; I love to learn about tech and software development. 
 - 📫 Contact-me on: **leonardohenriquedeazevedo@gmail.com** or [Linkedin](https://www.linkedin.com/in/leonardo-henrique-/).
 
