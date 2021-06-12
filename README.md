@@ -4,7 +4,8 @@
 
 - 👨🏻‍💻 &nbsp; I started to code when I was 14 and since the first touch I knew that this was what I wanted to do in my life. 
 - ✍️ &nbsp; I love to learn about tech and software development. 
-- 📫 Contact-me on: **leonardohenriquedeazevedo@gmail.com** or [Linkedin](www.linkedin.com/in/leonardo--henrique-).
+- 📫 Contact-me on: **leonardohenriquedeazevedo@gmail.com** or [Linkedin](www.linkedin.com/in/leonardo--henrique-
+).
 
 <h2>&nbsp;Languages and Tools: </h2>
 <p align="left"> 
